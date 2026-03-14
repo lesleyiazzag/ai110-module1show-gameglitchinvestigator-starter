@@ -14,7 +14,7 @@ Bug 1 - The hints were backwards; when I was supposed to pick a higher number th
 Bug 2 - The 'New Game' button does not work; even though the Secret changes in the developer debug info it stores the previous game state in other fields. The Attempts gets set to 0 as well and when you try to guess the new number it doesn't let you and says you must start a new game.
 Bug 3 - The Hard mode is 1-50 and Normal mode is 1-100. These should be flipped. Also for Hard mode, even though it sets 1-50 you still get secret numbers outside of that range.
 
-## 2. How did you use AI as a teammate?
+## 2. How did you use AI as a teammate? 
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
